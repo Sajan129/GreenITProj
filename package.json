@@ -1,0 +1,9 @@
+{
+  "name": "GreenItChallenge",
+  "version": "0.0.1",
+  "description": "Green IT Challenge",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}

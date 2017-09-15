@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: #000000;
+    color: #A5A0A0;
+}
+
+.item{
+    position: absolute;
+    height: 359px !important;
+}
+
+.center {
+    background-color: #454546;
+    margin: auto;
+    width: 50%;
+    border: solid #34495E;
+}
+.carousel-size{
+    width: 100% !important;
+}
+.displayed{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

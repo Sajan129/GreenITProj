@@ -1,0 +1,35 @@
+{
+    "images": [
+    {
+        "id": 0,
+        "src": "\\images\\city.jpg",
+        "alt": "city night",
+        "descr": "City",
+        "width": 275,
+        "height": 183
+    },
+    {
+        "id": 1,
+        "src": "\\images\\fractal.jpg",
+        "alt": "purple fractal",
+        "descr": "",
+        "width": 900,
+        "height": 360
+    },
+    {
+        "id": 2,
+        "src": "\\images\\love.jpg",
+        "alt": "love ring",
+        "descr": "Love",
+        "width": 275,
+        "height": 189
+    },
+    {
+        "id": 3,
+        "src": "\\images\\california.jpg",
+        "alt": "california road sign",
+        "descr": "Californa",
+        "width": 210,
+        "height": 157
+    }]
+}
